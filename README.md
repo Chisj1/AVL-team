@@ -66,7 +66,7 @@ There are 2 statuses that could be returned:
 * Javascript
 
 ## Techniques
-* Preprocessing: nlp, TF-IDF vectorizer
+* Preprocessing: NLP, TF-IDF vectorizer
 * Model: naive bayes
 
 ![image](https://user-images.githubusercontent.com/63899044/232265561-1afde0c4-836c-4aaa-b58b-9612ab6c2119.png)
