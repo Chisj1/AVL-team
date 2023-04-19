@@ -17,7 +17,7 @@ Python 3 >
 ### Installing
 Clone the repository
 ```
-git clone https://github.com/png261/AVL-team
+git clone https://github.com/Chisj1/AVL-team
 ```
 
 
